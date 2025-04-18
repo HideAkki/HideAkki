@@ -30,7 +30,7 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 
 | Proyecto | Descripción |
 | -------- | ----------- |
-| 🌐 [Nombre del Proyecto](#) | Una breve descripción del proyecto y su propósito. |
+| 🌐 [Software para Farmacia](#) | Es el proyecto de grado para la tecnologia, y creo que uno de mis mejores proyectos. Es un software administrativo para farmacias pequeñas. |
 | ⚙️ [Otro Proyecto](#) | Qué hace, qué tecnologías usa y por qué es especial. |
 | ✨ [Proyecto 3](#) | Puedes incluso poner gifs o imágenes si quieres impresionar 😉 |
 
