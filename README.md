@@ -54,5 +54,26 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 - 💼 LinkedIn: https://www.linkedin.com/in/hector-diaz-11a838289/
 
 ---
+
+### 🎨 Mis diseños en Figma
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.figma.com/file/tu-id-1" target="_blank">
+        <img src="https://tu-url-de-la-captura.com/proyecto1.png" width="200" /><br/>
+        <sub><b>Dashboard UX UI</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/file/tu-id-2" target="_blank">
+        <img src="https://tu-url-de-la-captura.com/proyecto2.png" width="200" /><br/>
+        <sub><b>Mobile App Login</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh1azlkem5nM2doeG04czFiMDIzNHI2ZDg1bDFnNGZncm9lejllayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif" />
 
