@@ -54,5 +54,5 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 - 💼 LinkedIn: https://www.linkedin.com/in/hector-diaz-11a838289/
 
 ---
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE5dWR2NWllM20wb21hb3B6MmxhbzQ2MWNrZ3dybWsyeGU0NDhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1bRvcG0AbXu4U/giphy.gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh1azlkem5nM2doeG04czFiMDIzNHI2ZDg1bDFnNGZncm9lejllayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif" />
 
