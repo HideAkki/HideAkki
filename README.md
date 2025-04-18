@@ -62,13 +62,13 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
     <td align="center">
       <a href="https://www.figma.com/design/LfeRS0IBCbdGjvDrKfeBLR/NewJeans-Promo-Site?node-id=30-12&t=TZQdeUFzemtjuhkX-1" target="_blank">
         <img src="https://i.imgur.com/bwCtWIa.png" width="200" /><br/>
-        <sub><b>Dashboard UX UI</b></sub>
+        <sub><b>NJ Site</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/file/tu-id-2" target="_blank">
-        <img src="https://tu-url-de-la-captura.com/proyecto2.png" width="200" /><br/>
-        <sub><b>Mobile App Login</b></sub>
+      <a href="https://www.figma.com/design/vRZLkyl87K0alhNtI4ui1z/RPG-GAME-WEBSITE?node-id=0-1&t=dC18uqNQL8gxLVaD-1" target="_blank">
+        <img src="https://i.imgur.com/Oxo5WUq.png" width="200" /><br/>
+        <sub><b>RPG Game Page</b></sub>
       </a>
     </td>
   </tr>
