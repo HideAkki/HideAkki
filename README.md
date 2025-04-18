@@ -32,6 +32,7 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 | -------- | ----------- |
 | 🌐 [Software para Farmacia](#) | Es el proyecto de grado para la tecnologia, y creo que uno de mis mejores proyectos. Es un software administrativo para farmacias pequeñas. |
 | ⚙️ [Proyectos UTS](https://github.com/HideAkki/PROYECTOS-UTS-2.0) | Es un software web que le permite a los estudiantes revisar una base de datos con las diferentes ideas de proyectos de grado disponibles y tambien a profesores y directivos |
+| ✨ [Mas Proyectos](https://github.com/HideAkki?tab=repositories) | Aqui esta todos mis proyectos de desarrollo de software!! |
 
 ---
 
