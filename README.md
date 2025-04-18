@@ -44,9 +44,9 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HideAkki&show_icons=true&theme=tokyonight&hide_border=true&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HideAkki&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
