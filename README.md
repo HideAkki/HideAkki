@@ -47,7 +47,7 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 
 ---
 
-### 📫 Conectemos
+### 📫 Contacto
 
 - 🌐 Portafolio: D:
 - 💼 LinkedIn: https://www.linkedin.com/in/hector-diaz-11a838289/
