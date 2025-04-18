@@ -61,7 +61,7 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
   <tr>
     <td align="center">
       <a href="https://www.figma.com/design/LfeRS0IBCbdGjvDrKfeBLR/NewJeans-Promo-Site?node-id=30-12&t=TZQdeUFzemtjuhkX-1" target="_blank">
-        <img src="https://imgur.com/a/yHMZgb4" width="200" /><br/>
+        <img src="https://i.imgur.com/bwCtWIa.png" width="200" /><br/>
         <sub><b>Dashboard UX UI</b></sub>
       </a>
     </td>
