@@ -60,8 +60,8 @@ Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde fun
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.figma.com/file/tu-id-1" target="_blank">
-        <img src="https://tu-url-de-la-captura.com/proyecto1.png" width="200" /><br/>
+      <a href="https://www.figma.com/design/LfeRS0IBCbdGjvDrKfeBLR/NewJeans-Promo-Site?node-id=30-12&t=TZQdeUFzemtjuhkX-1" target="_blank">
+        <img src="https://imgur.com/a/yHMZgb4" width="200" /><br/>
         <sub><b>Dashboard UX UI</b></sub>
       </a>
     </td>
