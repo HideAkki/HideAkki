@@ -1,5 +1,5 @@
 <h1 align="center">✨ ¡Hola! Soy [Hector Diaz (HIDE)] ✨</h1>
-<p align="center">🎨 Desarrollador Web & UX/UI Lover 👨‍💻 | Apasionado por el diseño, el código y la interactividad</p>
+<p align="center">🎨 Desarrollador Web & UX/UI 👨‍💻 | Apasionado por el diseño, el código y la interactividad</p>
 
 ---
 
