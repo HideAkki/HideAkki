@@ -75,8 +75,8 @@ const HIDE = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎓 **Proyectos UTS** | System for managing degree projects at UTS university | Full Stack · Web |
-| 💊 **SGDI** | Inventory management system for small pharmacies *(Degree Project)* | Spring Boot · SQL |
+|  **Proyectos UTS** | System for managing degree projects at UTS university | Full Stack · Web |
+|  **SGDI** | Inventory management system for small pharmacies *(Degree Project)* | Spring Boot · SQL |
 
 </div>
 
