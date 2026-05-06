@@ -1,83 +1,122 @@
-<h1 align="center"> ¡Hola! Soy [Hector Diaz (HIDE)] </h1>
-<p align="center">Desarrollador Web & UX/UI | Apasionado por el diseño, el código y la interactividad</p>
-
----
-
-### 🧠 Sobre mí
-
-Hola, soy un desarrollador web con alma creativa.  
-Disfruto diseñar interfaces intuitivas, escribir código limpio y dar vida a experiencias digitales.  
-Mi amor por el dibujo y el diseño UX/UI me impulsó a crear proyectos donde funcionalidad y estética van de la mano.
-
----
-
-### 🛠️ Tecnologías y herramientas que uso
-
+<!-- Header animado -->
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+```
+// developer + designer
+```
+
+# HI, I'M **HIDE** ✦
+### Hector Diaz · Frontend Dev · UX/UI Designer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=I+blend+art+%26+code+to+craft+digital+experiences;Frontend+Dev+%7C+UX%2FUI+Designer+%7C+Artist;Building+interfaces+that+feel+alive)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## `> about_me`
+
+```js
+const HIDE = {
+  name     : "Hector Diaz",
+  alias    : "HIDE",
+  role     : ["Frontend Developer", "UX/UI Designer", "Digital Artist"],
+  passion  : "I draw, design, and build — art led me to code.",
+  skills   : ["Web Design", "UX/UI", "Networks", "Hardware"],
+  fun_fact : "I can sketch a UI wireframe AND code it before lunch ☕"
+};
+```
+
+> Creative by nature, developer by craft. My love for **art** led me to **web design & UX/UI** — where pixels meet purpose. I turn interfaces into experiences, and ideas into working products.
+
+---
+
+## `> tech_stack`
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![SQL](https://img.shields.io/badge/SQL-E48E00?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E48E00?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05020?style=for-the-badge&logo=git&logoColor=white)
+![Clip Studio](https://img.shields.io/badge/Clip_Studio_Paint-2B2B2B?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-1B72BE?style=for-the-badge&logo=affinity&logoColor=white)
+![WixStudio](https://img.shields.io/badge/Wix_Studio-000000?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
 
-### 🚀 Proyectos destacados
-
-| Proyecto | Descripción |
-| -------- | ----------- |
-| 🌐 [Software para Farmacia](#) | Es el proyecto de grado para la tecnologia, y creo que uno de mis mejores proyectos. Es un software administrativo para farmacias pequeñas. |
-| ⚙️ [Proyectos UTS](https://github.com/HideAkki/PROYECTOS-UTS-2.0) | Es un software web que le permite a los estudiantes revisar una base de datos con las diferentes ideas de proyectos de grado disponibles y tambien a profesores y directivos https://proyectos-uts-2-0.onrender.com |
-| ✨ [Mas Proyectos](https://github.com/HideAkki?tab=repositories) | Aqui esta todos mis proyectos de desarrollo de software!! |
-
----
-
-### 📈 Estadísticas
+## `> featured_projects`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HideAkki&show_icons=true&theme=tokyonight&hide_border=true&hide=prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HideAkki&layout=compact&theme=tokyonight&hide_border=true)
+| Project | Description | Stack |
+|---|---|---|
+| 🎓 **Proyectos UTS** | System for managing degree projects at UTS university | Full Stack · Web |
+| 💊 **SGDI** | Inventory management system for small pharmacies *(Degree Project)* | Spring Boot · SQL |
 
 </div>
 
 ---
 
-### 📫 Contacto
+## `> github_stats`
 
-- 🌐 Portafolio: D:
-- 💼 LinkedIn: https://www.linkedin.com/in/hector-diaz-11a838289/
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HIDE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e6edf3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIDE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HIDE&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=E6EDF3)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> connect_with_me`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@hide.akki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hide.akki)
+[![Instagram Alt](https://img.shields.io/badge/@im.hide.irl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im.hide.irl)
+[![LinkedIn](https://img.shields.io/badge/Hector_Diaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-diaz-11a838289/)
+
+</div>
 
 ---
 
-### 🎨 Mis diseños en Figma
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.figma.com/design/LfeRS0IBCbdGjvDrKfeBLR/NewJeans-Promo-Site?node-id=30-12&t=TZQdeUFzemtjuhkX-1" target="_blank">
-        <img src="https://i.imgur.com/bwCtWIa.png" width="200" /><br/>
-        <sub><b>NJ Site</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/design/vRZLkyl87K0alhNtI4ui1z/RPG-GAME-WEBSITE?node-id=0-1&t=dC18uqNQL8gxLVaD-1" target="_blank">
-        <img src="https://i.imgur.com/Oxo5WUq.png" width="200" /><br/>
-        <sub><b>RPG Game Page</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+```
+crafted with art + code · HIDE © 2025
+```
 
----
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh1azlkem5nM2doeG04czFiMDIzNHI2ZDg1bDFnNGZncm9lejllayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif" />
+![Profile Views](https://komarev.com/ghpvc/?username=HIDE&color=7c3aed&style=flat-square&label=profile+views)
 
+</div>
